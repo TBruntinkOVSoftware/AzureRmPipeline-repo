@@ -16,6 +16,7 @@ steps:
     azureResourceManagerConnection: 'AzureRmPipeline-conn'
     subscriptionId: '7fa8dd6c-aaa8-479e-b15e-5bd26b223a09'
     action: 'Create Or Update Resource Group'
+    resourceGroupName: 'learn-646ac73d-0111-46e2-904b-089ed23957a9'
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/TBruntinkOVSoftware/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
