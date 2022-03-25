@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'learn2-646ac73d-0111-46e2-904b-089ed23957a9'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    overrideParameters: '-projectName jgao0214timov'
+    overrideParameters: '-projectName ao0214timov'
     csmFileLink: 'https://raw.githubusercontent.com/TBruntinkOVSoftware/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate.'
